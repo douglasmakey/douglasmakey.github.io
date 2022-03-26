@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>go on KungFu Dev</title>
+    <link>https://kungfudev.com/tags/go/</link>
+    <description>Recent content in go on KungFu Dev</description>
+    <image>
+      <url>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kungfudev.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Socket sharding in Linux example with Go</title>
+      <link>https://kungfudev.com/posts/socket-sharding-go/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/socket-sharding-go/</guid>
+      <description>I bet there have been many times that you were working on the terminal with multiple tabs and you launched an HTTP server, and then you forgot that the server was already being executed, and then you tried to relaunch it from another tab getting the known error:
+go run main.go listen tcp :8080: bind: address already in use This is because we cannot open a socket with the same source address and port by default in Linux and the vast majority of operating systems.</description>
+    </item>
+    
+    <item>
+      <title>Implementing a simple K8s admission controller in Go</title>
+      <link>https://kungfudev.com/posts/implementing-k8s-admission-controller/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/implementing-k8s-admission-controller/</guid>
+      <description>What is an admission controller?  In a nutshell, Kubernetes admission controllers are plugins that govern and enforce how the cluster is used. They can be thought of as a gatekeeper that intercept (authenticated) API requests and may change the request object or deny the request altogether. The admission control process has two phases: the mutating phase is executed first, followed by the validating phase.
+ Kubernetes admission Controller Phases:</description>
+    </item>
+    
+    <item>
+      <title>How BigCache avoids expensive GC cycles and speeds up concurrent access in Go</title>
+      <link>https://kungfudev.com/posts/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go/</guid>
+      <description>A few days ago, I read an article about BigCache and I was interested to know how they avoided these 2 problems:
+ concurrent access expensive GC cycles  I went to their repository and read the code to understand how they achieved it. I think it&amp;rsquo;s amazing so I would like to share it with you.
+&amp;lsquo;Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.</description>
+    </item>
+    
+    <item>
+      <title>Implementation of Dijkstra using heap in Go</title>
+      <link>https://kungfudev.com/posts/implementation-of-dijkstra-using-heap-in-go/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/implementation-of-dijkstra-using-heap-in-go/</guid>
+      <description>Simple implementation of Dijkstra using heap in Go. What is Dijkstra? MEGA SHORT DESCRIPTION: Dijkstra&amp;rsquo;s algorithm to find the shortest path between a and b. It picks the unvisited node with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor&amp;rsquo;s distance if smaller.
+  Mark all nodes unvisited. Create a set of all the unvisited nodes called the unvisited set, in our case we are going to use a set for visited nodes, not for unvisited nodes.</description>
+    </item>
+    
+    <item>
+      <title>Golang: capturing logs and send an email</title>
+      <link>https://kungfudev.com/posts/golang-capturing-logs-and-send-an-email/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/golang-capturing-logs-and-send-an-email/</guid>
+      <description>In my company we have an ETL wrote in Golang to process the integrations with our partners, each integration is executed in an unique and isolate POD using cronjob k8s, each one print a bunch of data and metrics for each step executed using log the package in the standard library, all these logs are useful to monitor the integrations with different tools.
+In my team now we want to receive an email when some integration is failed with the logs of the process, so for that, we use a feature of log to change the output destination for the standard logger called  SetOutput.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk about Health Checks</title>
+      <link>https://kungfudev.com/posts/health-checks/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/health-checks/</guid>
+      <description>According to the azure documentation in this excellent article, they state that.
+&amp;ldquo;It&amp;rsquo;s a good practice, and often a business requirement, to monitor web applications and back-end services, to ensure they&amp;rsquo;re available and performing correctly. However, it&amp;rsquo;s more difficult to monitor services running in the cloud than it is to monitor on-premises services.&amp;rdquo;
+&amp;ldquo;There are many factors that affect cloud-hosted applications such as network latency, the performance, and availability of the underlying compute and storage systems and the network bandwidth between them.</description>
+    </item>
+    
+    <item>
+      <title>Tracking Service with Go and Redis V2</title>
+      <link>https://kungfudev.com/posts/tracking-service-v2/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/tracking-service-v2/</guid>
+      <description>Do you remember my last article where I wrote a service to look for a driver like uber? If not, you can check here So now, we going to write the V2 of our service.
+The current state of our service, when a user consumes the resource &amp;lsquo;search&amp;rsquo;, the user receives a response with the closer driver to him. But what would happen if there are no drivers close to the user?</description>
+    </item>
+    
+    <item>
+      <title>Tracking Service with Go and Redis</title>
+      <link>https://kungfudev.com/posts/tracking-service-with-go-and-redis/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/tracking-service-with-go-and-redis/</guid>
+      <description>Part 2: Tracking Service with Go and Redis V2
+Imagine that we work at a startup like Uber and we need to create a new service that saves drivers locations every given time and processes it. This way, when someone requests a driver we can find out which drivers are closer to our picking point.
+This is the core of our service. Save the locations and search nearby drivers. For this service we are using Go and Redis.</description>
+    </item>
+    
+    <item>
+      <title>Oauth2 with Google in Go</title>
+      <link>https://kungfudev.com/posts/oauth2-example-with-go/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/oauth2-example-with-go/</guid>
+      <description>Authentication is the most common part in any application. You can implement your own authentication system or use one of the many alternatives that exist, but in this case we are going to use OAuth2.
+OAuth is a specification that allows users to delegate access to their data without sharing their username and password with that service, if you want to read more about Oauth2 go here.
+Config Google Project First things first, we need to create our Google Project and create OAuth2 credentials.</description>
+    </item>
+    
+    <item>
+      <title>How important is math in computer programming?</title>
+      <link>https://kungfudev.com/posts/how-important-is-math-in-computer-programming/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/how-important-is-math-in-computer-programming/</guid>
+      <description>I’m writing this article because I recently did this exercise in HackerRank:
+I don’t have a degree in computer science or similar (but i’m working as a software engineer the last 3 years) so I really don’t have a solid math knowledge and at first sight this exercise seems easy, right?
+Most of you will think that it is, but to me it wasn’t. My first approach was to think in a logical solution (at least I’d like to think that it was), then I thinked that if i wanted to know if the kangaroos will ever land on the same location at the same time I would have to move the kangaroos until they were both on the same location</description>
+    </item>
+    
+  </channel>
+</rss>

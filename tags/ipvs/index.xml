@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ipvs on KungFu Dev</title>
+    <link>https://kungfudev.com/tags/ipvs/</link>
+    <description>Recent content in ipvs on KungFu Dev</description>
+    <image>
+      <url>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kungfudev.com/tags/ipvs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to setup simple load balancing with IPVS, demo with docker</title>
+      <link>https://kungfudev.com/posts/how-to-setup-simple-load-balancing-with-ipvs-demo-with-docker/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/how-to-setup-simple-load-balancing-with-ipvs-demo-with-docker/</guid>
+      <description>A few days ago, I was reading about the Kubernetes network model, especially about services and the kube-proxy component, and I discovered that kube-proxy has three modes, which are userspace, iptables and ipvs.
+The userspace mode is too old and slow, nowaday nobody recommends to use it, the iptables mode is the default mode for kube-proxy with this mode kube-proxy use iptables rules to forward packets that are destined for services to a backend for that services, and the last one is ipvs I did not know what it was so I read about it.</description>
+    </item>
+    
+  </channel>
+</rss>

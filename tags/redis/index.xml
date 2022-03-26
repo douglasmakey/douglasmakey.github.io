@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>redis on KungFu Dev</title>
+    <link>https://kungfudev.com/tags/redis/</link>
+    <description>Recent content in redis on KungFu Dev</description>
+    <image>
+      <url>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kungfudev.com/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s talk about Health Checks</title>
+      <link>https://kungfudev.com/posts/health-checks/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/health-checks/</guid>
+      <description>According to the azure documentation in this excellent article, they state that.
+&amp;ldquo;It&amp;rsquo;s a good practice, and often a business requirement, to monitor web applications and back-end services, to ensure they&amp;rsquo;re available and performing correctly. However, it&amp;rsquo;s more difficult to monitor services running in the cloud than it is to monitor on-premises services.&amp;rdquo;
+&amp;ldquo;There are many factors that affect cloud-hosted applications such as network latency, the performance, and availability of the underlying compute and storage systems and the network bandwidth between them.</description>
+    </item>
+    
+    <item>
+      <title>Tracking Service with Go and Redis V2</title>
+      <link>https://kungfudev.com/posts/tracking-service-v2/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/tracking-service-v2/</guid>
+      <description>Do you remember my last article where I wrote a service to look for a driver like uber? If not, you can check here So now, we going to write the V2 of our service.
+The current state of our service, when a user consumes the resource &amp;lsquo;search&amp;rsquo;, the user receives a response with the closer driver to him. But what would happen if there are no drivers close to the user?</description>
+    </item>
+    
+    <item>
+      <title>Tracking Service with Go and Redis</title>
+      <link>https://kungfudev.com/posts/tracking-service-with-go-and-redis/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/tracking-service-with-go-and-redis/</guid>
+      <description>Part 2: Tracking Service with Go and Redis V2
+Imagine that we work at a startup like Uber and we need to create a new service that saves drivers locations every given time and processes it. This way, when someone requests a driver we can find out which drivers are closer to our picking point.
+This is the core of our service. Save the locations and search nearby drivers. For this service we are using Go and Redis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>admissioncontroller on KungFu Dev</title>
+    <link>https://kungfudev.com/tags/admissioncontroller/</link>
+    <description>Recent content in admissioncontroller on KungFu Dev</description>
+    <image>
+      <url>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kungfudev.com/tags/admissioncontroller/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing a simple K8s admission controller in Go</title>
+      <link>https://kungfudev.com/posts/implementing-k8s-admission-controller/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kungfudev.com/posts/implementing-k8s-admission-controller/</guid>
+      <description>What is an admission controller?  In a nutshell, Kubernetes admission controllers are plugins that govern and enforce how the cluster is used. They can be thought of as a gatekeeper that intercept (authenticated) API requests and may change the request object or deny the request altogether. The admission control process has two phases: the mutating phase is executed first, followed by the validating phase.
+ Kubernetes admission Controller Phases:</description>
+    </item>
+    
+  </channel>
+</rss>
