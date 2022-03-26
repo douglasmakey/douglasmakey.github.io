@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>oauth2 on KungFu Dev</title>
-    <link>https://kungfudev.com/tags/oauth2/</link>
+    <link>https://www.kungfudev.com/tags/oauth2/</link>
     <description>Recent content in oauth2 on KungFu Dev</description>
     <image>
-      <url>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kungfudev.com/tags/oauth2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/oauth2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oauth2 with Google in Go</title>
-      <link>https://kungfudev.com/posts/oauth2-example-with-go/</link>
+      <link>https://www.kungfudev.com/posts/oauth2-example-with-go/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kungfudev.com/posts/oauth2-example-with-go/</guid>
+      <guid>https://www.kungfudev.com/posts/oauth2-example-with-go/</guid>
       <description>Authentication is the most common part in any application. You can implement your own authentication system or use one of the many alternatives that exist, but in this case we are going to use OAuth2.
 OAuth is a specification that allows users to delegate access to their data without sharing their username and password with that service, if you want to read more about Oauth2 go here.
 Config Google Project First things first, we need to create our Google Project and create OAuth2 credentials.</description>

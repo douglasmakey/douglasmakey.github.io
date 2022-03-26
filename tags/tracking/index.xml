@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tracking on KungFu Dev</title>
-    <link>https://kungfudev.com/tags/tracking/</link>
+    <link>https://www.kungfudev.com/tags/tracking/</link>
     <description>Recent content in tracking on KungFu Dev</description>
     <image>
-      <url>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kungfudev.com/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tracking Service with Go and Redis V2</title>
-      <link>https://kungfudev.com/posts/tracking-service-v2/</link>
+      <link>https://www.kungfudev.com/posts/tracking-service-v2/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kungfudev.com/posts/tracking-service-v2/</guid>
+      <guid>https://www.kungfudev.com/posts/tracking-service-v2/</guid>
       <description>Do you remember my last article where I wrote a service to look for a driver like uber? If not, you can check here So now, we going to write the V2 of our service.
 The current state of our service, when a user consumes the resource &amp;lsquo;search&amp;rsquo;, the user receives a response with the closer driver to him. But what would happen if there are no drivers close to the user?</description>
     </item>
     
     <item>
       <title>Tracking Service with Go and Redis</title>
-      <link>https://kungfudev.com/posts/tracking-service-with-go-and-redis/</link>
+      <link>https://www.kungfudev.com/posts/tracking-service-with-go-and-redis/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kungfudev.com/posts/tracking-service-with-go-and-redis/</guid>
+      <guid>https://www.kungfudev.com/posts/tracking-service-with-go-and-redis/</guid>
       <description>Part 2: Tracking Service with Go and Redis V2
 Imagine that we work at a startup like Uber and we need to create a new service that saves drivers locations every given time and processes it. This way, when someone requests a driver we can find out which drivers are closer to our picking point.
 This is the core of our service. Save the locations and search nearby drivers. For this service we are using Go and Redis.</description>

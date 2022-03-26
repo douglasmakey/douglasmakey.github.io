@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>logs on KungFu Dev</title>
-    <link>https://kungfudev.com/tags/logs/</link>
+    <link>https://www.kungfudev.com/tags/logs/</link>
     <description>Recent content in logs on KungFu Dev</description>
     <image>
-      <url>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kungfudev.com/tags/logs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/logs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang: capturing logs and send an email</title>
-      <link>https://kungfudev.com/posts/golang-capturing-logs-and-send-an-email/</link>
+      <link>https://www.kungfudev.com/posts/golang-capturing-logs-and-send-an-email/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kungfudev.com/posts/golang-capturing-logs-and-send-an-email/</guid>
+      <guid>https://www.kungfudev.com/posts/golang-capturing-logs-and-send-an-email/</guid>
       <description>In my company we have an ETL wrote in Golang to process the integrations with our partners, each integration is executed in an unique and isolate POD using cronjob k8s, each one print a bunch of data and metrics for each step executed using log the package in the standard library, all these logs are useful to monitor the integrations with different tools.
 In my team now we want to receive an email when some integration is failed with the logs of the process, so for that, we use a feature of log to change the output destination for the standard logger called  SetOutput.</description>
     </item>

@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kungfudev.com/es/archives/</loc>
+    <loc>https://www.kungfudev.com/es/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kungfudev.com/archives/"
+                href="https://www.kungfudev.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kungfudev.com/es/archives/"
+                href="https://www.kungfudev.com/es/archives/"
                 />
   </url><url>
-    <loc>https://kungfudev.com/es/search/</loc>
+    <loc>https://www.kungfudev.com/es/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kungfudev.com/search/"
+                href="https://www.kungfudev.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kungfudev.com/es/search/"
+                href="https://www.kungfudev.com/es/search/"
                 />
   </url><url>
-    <loc>https://kungfudev.com/es/categories/</loc>
+    <loc>https://www.kungfudev.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kungfudev.com/categories/"
+                href="https://www.kungfudev.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kungfudev.com/es/categories/"
+                href="https://www.kungfudev.com/es/categories/"
                 />
   </url><url>
-    <loc>https://kungfudev.com/es/</loc>
+    <loc>https://www.kungfudev.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kungfudev.com/"
+                href="https://www.kungfudev.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kungfudev.com/es/"
+                href="https://www.kungfudev.com/es/"
                 />
   </url><url>
-    <loc>https://kungfudev.com/es/tags/</loc>
+    <loc>https://www.kungfudev.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kungfudev.com/tags/"
+                href="https://www.kungfudev.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kungfudev.com/es/tags/"
+                href="https://www.kungfudev.com/es/tags/"
                 />
   </url>
 </urlset>
