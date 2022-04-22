@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ethereum on KungFu Dev</title>
+    <link>https://www.kungfudev.com/tags/ethereum/</link>
+    <description>Recent content in ethereum on KungFu Dev</description>
+    <image>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My introduction to Blockchain - Merkle tree in go</title>
+      <link>https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/</guid>
+      <description>A couple of months ago, I started playing/developing around the Blockchain, given the Hype it was having lately throughout the crypto space with cryptocurrencies and all the incredible possible applications thanks to the implementation of smart contracts such as NFT collections, NFT games and DAO. I have always been very interested in distributed systems, and the Blockchain is a distributed system in its purest form.
+It all started with one of the most popular games, which was applying this new concept of Play2Earn, where the game&amp;rsquo;s assets were Tokens (ERC-721), which the players owned and generated profit while playing with them.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,7 +9,17 @@
       <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My introduction to Blockchain - Merkle tree in go</title>
+      <link>https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/</guid>
+      <description>A couple of months ago, I started playing/developing around the Blockchain, given the Hype it was having lately throughout the crypto space with cryptocurrencies and all the incredible possible applications thanks to the implementation of smart contracts such as NFT collections, NFT games and DAO. I have always been very interested in distributed systems, and the Blockchain is a distributed system in its purest form.
+It all started with one of the most popular games, which was applying this new concept of Play2Earn, where the game&amp;rsquo;s assets were Tokens (ERC-721), which the players owned and generated profit while playing with them.</description>
+    </item>
+    
     <item>
       <title>Socket sharding in Linux example with Go</title>
       <link>https://www.kungfudev.com/posts/socket-sharding-go/</link>
