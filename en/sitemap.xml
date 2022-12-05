@@ -2,20 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kungfudev.com/tags/bitcoin/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/blockchain/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/ethereum/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.kungfudev.com/tags/go/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -27,14 +18,20 @@
                 href="https://www.kungfudev.com/"
                 />
   </url><url>
-    <loc>https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <loc>https://www.kungfudev.com/tags/linux/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/network/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/posts/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/socket/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/tags/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -46,8 +43,8 @@
                 href="https://www.kungfudev.com/tags/"
                 />
   </url><url>
-    <loc>https://www.kungfudev.com/tags/linux/</loc>
-    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+    <loc>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/posts/socket-sharding-go/</loc>
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
@@ -68,9 +65,6 @@
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/tags/ipvs/</loc>
-    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/network/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/tags/bigcache/</loc>

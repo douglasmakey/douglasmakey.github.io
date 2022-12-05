@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>socket on KungFu Dev</title>
+    <link>https://www.kungfudev.com/tags/socket/</link>
+    <description>Recent content in socket on KungFu Dev</description>
+    <image>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Unix Domain Sockets in Golang</title>
+      <link>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</guid>
+      <description>In Golang, a socket is a communication endpoint that allows a program to send and receive data over a network. There are two main types of sockets in Golang: Unix domain sockets (AF_UNIX) and network sockets (AF_INET|AF_INET6). This blog post will explore some differences between these two types of sockets.
+Unix domain sockets, a.k.a., local sockets, are used for communication between processes on the same machine. They use a file-based interface and can be accessed using the file system path, just like regular files.</description>
+    </item>
+    
+  </channel>
+</rss>

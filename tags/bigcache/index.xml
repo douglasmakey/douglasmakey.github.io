@@ -4,6 +4,10 @@
     <title>bigcache on KungFu Dev</title>
     <link>https://www.kungfudev.com/tags/bigcache/</link>
     <description>Recent content in bigcache on KungFu Dev</description>
+    <image>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/bigcache/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +17,7 @@
       
       <guid>https://www.kungfudev.com/posts/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go/</guid>
       <description>A few days ago, I read an article about BigCache and I was interested to know how they avoided these 2 problems:
- concurrent access expensive GC cycles  I went to their repository and read the code to understand how they achieved it. I think it&amp;rsquo;s amazing so I would like to share it with you.
+concurrent access expensive GC cycles I went to their repository and read the code to understand how they achieved it. I think it&amp;rsquo;s amazing so I would like to share it with you.
 &amp;lsquo;Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.</description>
     </item>
     

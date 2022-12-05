@@ -4,6 +4,10 @@
     <title>admissioncontroller on KungFu Dev</title>
     <link>https://www.kungfudev.com/tags/admissioncontroller/</link>
     <description>Recent content in admissioncontroller on KungFu Dev</description>
+    <image>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/admissioncontroller/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,8 +16,9 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/posts/implementing-k8s-admission-controller/</guid>
-      <description>What is an admission controller?  In a nutshell, Kubernetes admission controllers are plugins that govern and enforce how the cluster is used. They can be thought of as a gatekeeper that intercept (authenticated) API requests and may change the request object or deny the request altogether. The admission control process has two phases: the mutating phase is executed first, followed by the validating phase.
- Kubernetes admission Controller Phases:</description>
+      <description>What is an admission controller? In a nutshell, Kubernetes admission controllers are plugins that govern and enforce how the cluster is used. They can be thought of as a gatekeeper that intercept (authenticated) API requests and may change the request object or deny the request altogether. The admission control process has two phases: the mutating phase is executed first, followed by the validating phase.
+Kubernetes admission Controller Phases:
+An admission controller is a piece of software that intercepts requests to the Kubernetes API server before the persistence of the object (the k8s resource such as Pod, Deployment, Service, etc&amp;hellip;) in the etcd database, but after the request is authenticated and authorized.</description>
     </item>
     
   </channel>

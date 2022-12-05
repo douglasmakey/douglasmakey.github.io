@@ -4,16 +4,20 @@
     <title>KungFu Dev</title>
     <link>https://www.kungfudev.com/</link>
     <description>Recent content on KungFu Dev</description>
+    <image>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My introduction to Blockchain - Merkle tree in go</title>
-      <link>https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Understanding Unix Domain Sockets in Golang</title>
+      <link>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/</guid>
-      <description>A couple of months ago, I started playing/developing around the Blockchain, given the Hype it was having lately throughout the crypto space with cryptocurrencies and all the incredible possible applications thanks to the implementation of smart contracts such as NFT collections, NFT games and DAO. I have always been very interested in distributed systems, and the Blockchain is a distributed system in its purest form.
-It all started with one of the most popular games, which was applying this new concept of Play2Earn, where the game&amp;rsquo;s assets were Tokens (ERC-721), which the players owned and generated profit while playing with them.</description>
+      <guid>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</guid>
+      <description>In Golang, a socket is a communication endpoint that allows a program to send and receive data over a network. There are two main types of sockets in Golang: Unix domain sockets (AF_UNIX) and network sockets (AF_INET|AF_INET6). This blog post will explore some differences between these two types of sockets.
+Unix domain sockets, a.k.a., local sockets, are used for communication between processes on the same machine. They use a file-based interface and can be accessed using the file system path, just like regular files.</description>
     </item>
     
     <item>
@@ -32,8 +36,9 @@ go run main.go listen tcp :8080: bind: address already in use This is because we
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/posts/implementing-k8s-admission-controller/</guid>
-      <description>What is an admission controller?  In a nutshell, Kubernetes admission controllers are plugins that govern and enforce how the cluster is used. They can be thought of as a gatekeeper that intercept (authenticated) API requests and may change the request object or deny the request altogether. The admission control process has two phases: the mutating phase is executed first, followed by the validating phase.
- Kubernetes admission Controller Phases:</description>
+      <description>What is an admission controller? In a nutshell, Kubernetes admission controllers are plugins that govern and enforce how the cluster is used. They can be thought of as a gatekeeper that intercept (authenticated) API requests and may change the request object or deny the request altogether. The admission control process has two phases: the mutating phase is executed first, followed by the validating phase.
+Kubernetes admission Controller Phases:
+An admission controller is a piece of software that intercepts requests to the Kubernetes API server before the persistence of the object (the k8s resource such as Pod, Deployment, Service, etc&amp;hellip;) in the etcd database, but after the request is authenticated and authorized.</description>
     </item>
     
     <item>
@@ -53,7 +58,7 @@ The userspace mode is too old and slow, nowaday nobody recommends to use it, the
       
       <guid>https://www.kungfudev.com/posts/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go/</guid>
       <description>A few days ago, I read an article about BigCache and I was interested to know how they avoided these 2 problems:
- concurrent access expensive GC cycles  I went to their repository and read the code to understand how they achieved it. I think it&amp;rsquo;s amazing so I would like to share it with you.
+concurrent access expensive GC cycles I went to their repository and read the code to understand how they achieved it. I think it&amp;rsquo;s amazing so I would like to share it with you.
 &amp;lsquo;Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.</description>
     </item>
     
@@ -64,7 +69,7 @@ The userspace mode is too old and slow, nowaday nobody recommends to use it, the
       
       <guid>https://www.kungfudev.com/posts/implementation-of-dijkstra-using-heap-in-go/</guid>
       <description>Simple implementation of Dijkstra using heap in Go. What is Dijkstra? MEGA SHORT DESCRIPTION: Dijkstra&amp;rsquo;s algorithm to find the shortest path between a and b. It picks the unvisited node with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor&amp;rsquo;s distance if smaller.
-  Mark all nodes unvisited. Create a set of all the unvisited nodes called the unvisited set, in our case we are going to use a set for visited nodes, not for unvisited nodes.</description>
+Mark all nodes unvisited. Create a set of all the unvisited nodes called the unvisited set, in our case we are going to use a set for visited nodes, not for unvisited nodes.</description>
     </item>
     
     <item>
@@ -74,7 +79,7 @@ The userspace mode is too old and slow, nowaday nobody recommends to use it, the
       
       <guid>https://www.kungfudev.com/posts/golang-capturing-logs-and-send-an-email/</guid>
       <description>In my company we have an ETL wrote in Golang to process the integrations with our partners, each integration is executed in an unique and isolate POD using cronjob k8s, each one print a bunch of data and metrics for each step executed using log the package in the standard library, all these logs are useful to monitor the integrations with different tools.
-In my team now we want to receive an email when some integration is failed with the logs of the process, so for that, we use a feature of log to change the output destination for the standard logger called  SetOutput.</description>
+In my team now we want to receive an email when some integration is failed with the logs of the process, so for that, we use a feature of log to change the output destination for the standard logger called SetOutput.</description>
     </item>
     
     <item>

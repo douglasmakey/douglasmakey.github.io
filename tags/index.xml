@@ -4,39 +4,16 @@
     <title>Tags on KungFu Dev</title>
     <link>https://www.kungfudev.com/tags/</link>
     <description>Recent content in Tags on KungFu Dev</description>
+    <image>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>bitcoin</title>
-      <link>https://www.kungfudev.com/tags/bitcoin/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/bitcoin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blockchain</title>
-      <link>https://www.kungfudev.com/tags/blockchain/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethereum</title>
-      <link>https://www.kungfudev.com/tags/ethereum/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/ethereum/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>go</title>
       <link>https://www.kungfudev.com/tags/go/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/go/</guid>
       <description></description>
@@ -45,9 +22,27 @@
     <item>
       <title>linux</title>
       <link>https://www.kungfudev.com/tags/linux/</link>
-      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://www.kungfudev.com/tags/network/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socket</title>
+      <link>https://www.kungfudev.com/tags/socket/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/socket/</guid>
       <description></description>
     </item>
     
@@ -84,15 +79,6 @@
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/ipvs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network</title>
-      <link>https://www.kungfudev.com/tags/network/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/network/</guid>
       <description></description>
     </item>
     
