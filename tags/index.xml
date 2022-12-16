@@ -9,20 +9,29 @@
       <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>go</title>
       <link>https://www.kungfudev.com/tags/go/</link>
-      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>k8s</title>
+      <link>https://www.kungfudev.com/tags/k8s/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>linux</title>
       <link>https://www.kungfudev.com/tags/linux/</link>
-      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/linux/</guid>
       <description></description>
@@ -31,7 +40,7 @@
     <item>
       <title>network</title>
       <link>https://www.kungfudev.com/tags/network/</link>
-      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/network/</guid>
       <description></description>
@@ -40,7 +49,7 @@
     <item>
       <title>socket</title>
       <link>https://www.kungfudev.com/tags/socket/</link>
-      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/socket/</guid>
       <description></description>
@@ -61,15 +70,6 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/admissioncontroller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>k8s</title>
-      <link>https://www.kungfudev.com/tags/k8s/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/k8s/</guid>
       <description></description>
     </item>
     

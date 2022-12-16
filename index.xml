@@ -9,7 +9,17 @@
       <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A simple example of using unix domain socket in Kubernetes</title>
+      <link>https://www.kungfudev.com/posts/simple-example-of-using-unix-domain-socket-in-kubernetes/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/posts/simple-example-of-using-unix-domain-socket-in-kubernetes/</guid>
+      <description>In my previous post, Understanding Unix Domain Sockets in Golang, I mentioned that one potential use case for Unix domain sockets is to communicate between containers in Kubernetes. I received requests for an example of how to do this, so in this post, I&amp;rsquo;ll provide a simple example using two Go applications that you can find in this repository.
+Using Unix domain sockets in Kubernetes can be an effective way to communicate containers within the same pod.</description>
+    </item>
+    
     <item>
       <title>Understanding Unix Domain Sockets in Golang</title>
       <link>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</link>
