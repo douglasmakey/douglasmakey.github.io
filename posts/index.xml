@@ -21,6 +21,17 @@ Using Unix domain sockets in Kubernetes can be an effective way to communicate c
     </item>
     
     <item>
+      <title>CEL for admission controller with ValidatingAdmissionPolicy in K8s 1.26</title>
+      <link>https://www.kungfudev.com/posts/cel-for-admission-controller/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/posts/cel-for-admission-controller/</guid>
+      <description>The Kubernetes crew just dropped the latest version, k8s 1.26 a few days ago, and it&amp;rsquo;s packed with some seriously cool new features. One that&amp;rsquo;s catching my eye is CEL for admission control - it allows us to create a ValidatingAdmissionPolicy, taking our cluster security to the next level.
+Validating admission policies offer a declarative, in-process alternative to validating admission webhooks.
+Validating admission policies use the Common Expression Language (CEL) to declare the validation rules of a policy.</description>
+    </item>
+    
+    <item>
       <title>Understanding Unix Domain Sockets in Golang</title>
       <link>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>

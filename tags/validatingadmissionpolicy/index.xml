@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>validatingadmissionpolicy on KungFu Developer</title>
+    <link>https://www.kungfudev.com/tags/validatingadmissionpolicy/</link>
+    <description>Recent content in validatingadmissionpolicy on KungFu Developer</description>
+    <image>
+      <url>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/validatingadmissionpolicy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CEL for admission controller with ValidatingAdmissionPolicy in K8s 1.26</title>
+      <link>https://www.kungfudev.com/posts/cel-for-admission-controller/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/posts/cel-for-admission-controller/</guid>
+      <description>The Kubernetes crew just dropped the latest version, k8s 1.26 a few days ago, and it&amp;rsquo;s packed with some seriously cool new features. One that&amp;rsquo;s catching my eye is CEL for admission control - it allows us to create a ValidatingAdmissionPolicy, taking our cluster security to the next level.
+Validating admission policies offer a declarative, in-process alternative to validating admission webhooks.
+Validating admission policies use the Common Expression Language (CEL) to declare the validation rules of a policy.</description>
+    </item>
+    
+  </channel>
+</rss>

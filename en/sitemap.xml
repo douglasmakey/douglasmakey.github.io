@@ -5,6 +5,15 @@
     <loc>https://www.kungfudev.com/posts/simple-example-of-using-unix-domain-socket-in-kubernetes/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.kungfudev.com/tags/admissioncontroller/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/cel/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/posts/cel-for-admission-controller/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kungfudev.com/tags/go/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -49,6 +58,9 @@
                 href="https://www.kungfudev.com/tags/"
                 />
   </url><url>
+    <loc>https://www.kungfudev.com/tags/validatingadmissionpolicy/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,9 +69,6 @@
   </url><url>
     <loc>https://www.kungfudev.com/tags/sockets/</loc>
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/admissioncontroller/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/posts/implementing-k8s-admission-controller/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>

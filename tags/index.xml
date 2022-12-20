@@ -11,6 +11,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>admissioncontroller</title>
+      <link>https://www.kungfudev.com/tags/admissioncontroller/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/admissioncontroller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cel</title>
+      <link>https://www.kungfudev.com/tags/cel/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/cel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>go</title>
       <link>https://www.kungfudev.com/tags/go/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
@@ -56,20 +74,20 @@
     </item>
     
     <item>
+      <title>validatingadmissionpolicy</title>
+      <link>https://www.kungfudev.com/tags/validatingadmissionpolicy/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/validatingadmissionpolicy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>sockets</title>
       <link>https://www.kungfudev.com/tags/sockets/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/sockets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admissioncontroller</title>
-      <link>https://www.kungfudev.com/tags/admissioncontroller/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/admissioncontroller/</guid>
       <description></description>
     </item>
     
