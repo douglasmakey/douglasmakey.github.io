@@ -9,11 +9,11 @@
       <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/admissioncontroller/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/admissioncontroller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CEL for admission controller with ValidatingAdmissionPolicy in K8s 1.26</title>
       <link>https://www.kungfudev.com/posts/cel-for-admission-controller/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/posts/cel-for-admission-controller/</guid>
       <description>The Kubernetes crew just dropped the latest version, k8s 1.26 a few days ago, and it&amp;rsquo;s packed with some seriously cool new features. One that&amp;rsquo;s catching my eye is CEL for admission control - it allows us to create a ValidatingAdmissionPolicy, taking our cluster security to the next level.
