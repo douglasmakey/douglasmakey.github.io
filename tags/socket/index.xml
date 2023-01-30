@@ -9,7 +9,17 @@
       <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Large File Transfers in Linux with Go - An Exploration of TCP and Syscall</title>
+      <link>https://www.kungfudev.com/posts/optimizing-large-file-transfer-linux-go/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/posts/optimizing-large-file-transfer-linux-go/</guid>
+      <description>As I experiment with Raspberry Pi and other devices in my network, I have created a small network application to aid in device discovery using multicast, data collection, and other functions.
+One key feature of this application is the ability to download various data and metrics from some plugins weekly. With file sizes ranging from 200 MB to 250 MB after applying some compression, it&amp;rsquo;s essential to carefully consider some approaches for sending these files over TCP using Go.</description>
+    </item>
+    
     <item>
       <title>A simple example of using unix domain socket in Kubernetes</title>
       <link>https://www.kungfudev.com/posts/simple-example-of-using-unix-domain-socket-in-kubernetes/</link>

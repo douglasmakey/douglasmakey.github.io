@@ -9,7 +9,52 @@
       <link>https://www.kungfudev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kungfudev.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>go</title>
+      <link>https://www.kungfudev.com/tags/go/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://www.kungfudev.com/tags/linux/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://www.kungfudev.com/tags/network/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socket</title>
+      <link>https://www.kungfudev.com/tags/socket/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/socket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unix</title>
+      <link>https://www.kungfudev.com/tags/unix/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kungfudev.com/tags/unix/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>admissioncontroller</title>
       <link>https://www.kungfudev.com/tags/admissioncontroller/</link>
@@ -43,51 +88,6 @@
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kungfudev.com/tags/validatingadmissionpolicy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://www.kungfudev.com/tags/go/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://www.kungfudev.com/tags/linux/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network</title>
-      <link>https://www.kungfudev.com/tags/network/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>socket</title>
-      <link>https://www.kungfudev.com/tags/socket/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/socket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unix</title>
-      <link>https://www.kungfudev.com/tags/unix/</link>
-      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kungfudev.com/tags/unix/</guid>
       <description></description>
     </item>
     

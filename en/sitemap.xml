@@ -2,6 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kungfudev.com/tags/go/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.kungfudev.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kungfudev.com/"
+                />
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/linux/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/network/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/posts/optimizing-large-file-transfer-linux-go/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/posts/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/socket/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.kungfudev.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kungfudev.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.kungfudev.com/tags/unix/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.kungfudev.com/tags/admissioncontroller/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,57 +61,13 @@
     <loc>https://www.kungfudev.com/tags/k8s/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kungfudev.com/</loc>
-    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.kungfudev.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kungfudev.com/"
-                />
-  </url><url>
-    <loc>https://www.kungfudev.com/posts/</loc>
-    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/</loc>
-    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.kungfudev.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kungfudev.com/tags/"
-                />
-  </url><url>
     <loc>https://www.kungfudev.com/tags/validatingadmissionpolicy/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/posts/simple-example-of-using-unix-domain-socket-in-kubernetes/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.kungfudev.com/tags/go/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/linux/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/network/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/socket/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.kungfudev.com/posts/understanding-unix-domain-sockets-in-golang/</loc>
-    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.kungfudev.com/tags/unix/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.kungfudev.com/posts/socket-sharding-go/</loc>
